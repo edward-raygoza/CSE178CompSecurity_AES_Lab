@@ -1,0 +1,55 @@
+Test 1:
+
+Key: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+Enter size of text: 
+100
+
+Enter plaintext: 
+CSE178 was a really good course for an introduction to network security.
+
+Encrypted text: 
+3C 9B 9B 08 2B 78 82 49 B3 2B 8E B0 90 D6 29 7C 49 14 E4 F9 DD E6 19 79 
+0B 1D 54 9F 46 49 5D 4E BC C4 A0 B3 99 D0 C1 F9 D4 82 B4 11 D6 C4 69 C1 
+D8 B5 6B F6 1E 9B CF B4 32 40 89 A7 29 C9 D8 8C B9 08 59 83 86 CF A5 0E 
+45 2C 5A 93 AD 85 8F E7
+
+Test 2:
+
+Key: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+Enter size of text: 
+550
+
+Enter plaintext: 
+Dave watched as the forest burned up on the hill, only a few miles from her 
+house. The car had been hastily packed and Marta was inside trying to round 
+up the last of the pets. Dave went through his mental list of the most 
+important papers and documents that they couldn't leave behind. 
+He scolded himself for not having prepared these better in advance and 
+hoped that he had remembered everything that was needed. He continued to wait 
+for Marta to appear with the pets, but she still was nowhere to be seen.
+
+Encrypted text: 
+ED FC C5 93 76 E5 87 F6 54 35 93 EB A9 1B AF 63 01 9E B3 B3 6A 42 3A FC 
+F4 20 C9 BF FF 67 7C D7 4A 3D 19 AD 7F BE 7E F1 80 1E DC 66 A9 40 DF 35 
+EE 78 AA 9D F8 8D 42 A0 69 83 4E BB 4A 78 D4 74 75 30 C2 FE 1A EB 96 03 
+CB 6D 30 E9 4B 82 48 5A C7 6D 54 0B 0A 40 47 C9 39 25 00 34 65 F6 22 66 
+C5 11 1E B8 E8 E8 52 56 0C 2A 88 74 55 BE 75 27 A8 0E 2F 9F 49 79 74 B2 
+6D 80 1F 2E 21 27 9D AC 96 66 BC FE 8E 36 29 AC 04 32 04 ED 64 F4 F1 7D 
+E9 FB 05 C6 94 9C 8B 20 6B FE 3B A7 71 82 0C 52 26 68 88 15 BA DD 60 7D 
+67 EF B6 20 D9 5D F5 ED 9F 8A 4F 32 4B EE 25 A2 6E 74 B8 6E CF 68 2D BB 
+C1 31 F3 0D 43 65 36 33 AF 45 04 C8 91 6A 69 74 2D A7 74 CF C4 E8 F0 86 
+E8 D6 01 EA 15 CA 85 BE 29 3E F1 F9 5B 62 B8 47 CD CF CF E5 82 77 6C A9 
+D0 07 1B 6B A1 62 63 46 14 3B 18 C3 9B 06 74 57 F1 FD E8 E1 72 CF 25 BA 
+E5 92 8A 06 E2 15 0B ED 9B 39 08 38 3B 86 ED A1 86 77 59 F9 87 A0 F5 F1 
+60 B5 E3 99 AC 84 CC C5 4A 5C D1 A2 D7 B1 80 3E 82 19 0F 0A 56 9D AD 94 
+57 68 C3 DE 3E B5 8F 2F D7 7C BD 26 9E 42 CB 50 5F D2 F7 09 09 A3 DA 7E 
+49 C2 D0 67 50 D7 B3 E5 2D C2 30 8C 43 B0 3B 30 F4 53 55 60 A9 A5 4F A0 
+14 7B 51 48 4B 4F 3A 86 58 E6 3F 6B 37 D2 38 EF 2C 7B 19 86 B6 07 3C C9 
+52 7C 8E 6F E4 B1 A0 D6 4B 26 95 18 38 74 8D BD 43 8A D4 13 5E E8 86 61 
+98 24 3E 24 17 4A 5F 70 7F 51 DB 9C CA 8E 24 21 65 2C AB 28 98 80 5C E5 
+92 75 50 C6 3D CB C0 D3 7A 11 5D 13 FF 20 BF D7 79 D5 35 06 70 58 0D 18 
+D5 A0 83 33 1C 2C 3B 9B E9 1C E8 73 20 EB 3B 06 74 7E 0A E1 70 1B B8 92 
+D3 1C 88 81 7E AB 57 9C 28 81 21 12 D9 7F 50 4B 81 91 46 F1 D6 05 F5 D4 
+D4 17 A7 DD 31 86 1D 00
